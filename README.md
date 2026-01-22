@@ -17,4 +17,5 @@
 - 自动获取：直接从当前页面内存中读取 window.__playinfo__，不需要重新请求。
 - 生成命令：自动生成带 Referer 防盗链头的 curl 下载命令和 ffmpeg 合并命令，方便你直接复制到终端运行。
 - 安全：脚本只在本地运行，不会上传任何数据。
+
 ![alt text](<Video Project.gif>)
